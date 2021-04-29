@@ -1,0 +1,13 @@
+#ifndef SORTNEURONS_H
+#define SORTNEURONS_H
+
+
+class SortNeurons
+{
+    public:
+        SortNeurons();
+        virtual ~SortNeurons();
+
+};
+
+#endif // SORTNEURONS_H
